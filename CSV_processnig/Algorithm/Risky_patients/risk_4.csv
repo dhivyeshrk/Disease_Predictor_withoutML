@@ -1,0 +1,797 @@
+disease,risk_age1,risk_age2,risk_age3,risk_age4,risk_age5,risk_age6,risk_age7,risk_age8
+panic disorder,30-4
+vocal cord polyp,60-74,45-59
+turner syndrome,5-14,1-4
+cryptorchidism,5-14,1-4,< 1
+poisoning due to ethylene glycol,15-29,45-59
+atrophic vaginitis,75+,60-74,45-59
+fracture of the hand,5-14,15-29
+cellulitis or abscess of mouth,NUL
+eye alignment disorder,5-14,1-4,< 1
+headache after lumbar puncture,30-44,15-29
+pyloric stenosis,1-4,< 1
+salivary gland disorder,60-74
+osteochondrosis,5-14
+injury to the knee,45-59
+metabolic disorder,60-74
+vaginitis,30-44,15-29
+sick sinus syndrome,75+
+tinnitus of unknown cause,60-74
+glaucoma,75+,60-74
+eating disorder,15-29
+transient ischemic attack,75+,60-74
+pyelonephritis,15-29
+rotator cuff injury,60-74,45-59
+chronic pain disorder,30-44,45-59
+problem during pregnancy,15-29
+liver cancer,60-74,45-59
+atelectasis,75+,60-74
+injury to the hand,NUL
+choledocholithiasis,75+,60-74
+injury to the hip,NUL
+cirrhosis,60-74,45-59
+thoracic aortic aneurysm,75+,60-74
+subdural hemorrhage,75+
+congenital rubella,30-44,75+,60-74,5-14,1-4,15-29,45-59,< 1
+diabetic retinopathy,75+,60-74,45-59
+fibromyalgia,45-59
+ischemia of the bowel,75+,60-74
+fetal alcohol syndrome,5-14,1-4,< 1
+peritonitis,60-74
+injury to the abdomen,5-14,15-29
+acute pancreatitis,45-59
+thrombophlebitis,75+,60-74
+asthma,5-14,1-4
+foreign body in the vagina,15-29
+restless leg syndrome,60-74,45-59
+emphysema,5-14,15-29,< 1
+cysticercosis,30-44,15-29
+induced abortion,30-44,15-29
+teething syndrome,1-4,< 1
+infectious gastroenteritis,5-14,1-4,< 1
+acute sinusitis,NUL
+von hippel-lindau disease,5-14
+substance-related mental disorder,30-44
+postpartum depression,30-44,15-29
+coronary atherosclerosis,75+,60-74
+spondylitis,45-59
+pituitary adenoma,NUL
+uterine fibroids,30-44,45-59
+idiopathic nonmenstrual bleeding,30-44,15-29
+chalazion,1-4
+ovarian torsion,30-44,15-29
+retinopathy due to high blood pressure,60-74,45-59
+vaginal yeast infection,30-44,15-29
+mastoiditis,5-14
+lung contusion,60-74
+hypertrophic obstructive cardiomyopathy (hocm),75+,60-74
+ingrown toe nail,75+,5-14
+pulmonary eosinophilia,60-74,1-4
+open wound of the hip,5-14
+corneal disorder,75+,60-74
+foreign body in the gastrointestinal tract,5-14,1-4,< 1
+endophthalmitis,NUL
+intestinal malabsorption,1-4,< 1
+lead poisoning,30-44,75+,60-74,5-14,1-4,15-29,45-59,< 1
+viral warts,5-14,15-29
+hyperhidrosis,5-14,15-29
+stroke,75+,60-74
+pilonidal cyst,15-29
+crushing injury,NUL
+normal pressure hydrocephalus,75+,5-14
+alopecia,NUL
+hashimoto thyroiditis,30-44,45-59
+flat feet,5-14,1-4
+nonalcoholic liver disease (nash),45-59
+hemarthrosis,75+
+pelvic organ prolapse,75+,60-74
+fracture of the arm,5-14
+coagulation (bleeding) disorder,75+,60-74
+intracranial hemorrhage,75+
+hyperkalemia,75+,60-74
+cornea infection,NUL
+abscess of the lung,75+,60-74,1-4
+dengue fever,15-29
+chronic sinusitis,NUL
+cholesteatoma,5-14
+volvulus,75+
+injury to the finger,5-14
+poisoning due to analgesics,1-4,15-29
+atrial fibrillation,75+,60-74
+pinworm infection,5-14,1-4
+urethral valves,5-14,1-4,< 1
+open wound of the neck,75+,60-74
+achalasia,75+,60-74
+conductive hearing loss,75+,5-14
+abdominal hernia,45-59,< 1
+cerebral palsy,5-14,1-4
+marijuana abuse,15-29
+cryptococcosis,30-44,1-4,15-29
+obesity,NUL
+indigestion,NUL
+bursitis,60-74,45-59
+esophageal cancer,75+,60-74
+pulmonary congestion,75+,60-74,< 1
+juvenile rheumatoid arthritis,5-14,1-4
+actinic keratosis,75+,60-74
+acute otitis media,5-14,1-4,< 1
+astigmatism,5-14
+tuberous sclerosis,5-14,1-4,15-29,< 1
+empyema,30-44
+presbyacusis,75+,60-74
+neonatal jaundice,< 1
+chronic obstructive pulmonary disease (copd),75+,60-74
+dislocation of the elbow,1-4
+spondylosis,75+,60-74,45-59
+herpangina,5-14,1-4,< 1
+injury to the shoulder,45-59
+poisoning due to antidepressants,1-4,15-29
+infection of open wound,30-44
+deep vein thrombosis (dvt),75+,60-74
+protein deficiency,60-74
+myoclonus,60-74
+bone spur of the calcaneous,45-59
+von willebrand disease,5-14,1-4,15-29
+open wound of the back,NUL
+heart block,75+,60-74
+colonic polyp,60-74,45-59
+hypospadias,1-4,< 1
+magnesium deficiency,75+,60-74
+female infertility of unknown cause,30-44
+pericarditis,75+
+attention deficit hyperactivity disorder (adhd),5-14
+neuromyelitis optica,15-29
+pulmonic valve disease,5-14,1-4,< 1
+tietze syndrome,15-29
+cranial nerve palsy,5-14,< 1
+injury to the arm,5-14
+conversion disorder,30-44,5-14,45-59
+complex regional pain syndrome,75+,60-74,45-59
+otosclerosis,75+,60-74,45-59
+injury to the trunk,NUL
+hypothyroidism,75+,60-74
+primary insomnia,5-14,1-4
+lice,5-14,1-4
+vitamin b12 deficiency,75+,60-74
+diabetes,75+,60-74,45-59
+vulvodynia,30-44,15-29
+endometriosis,30-44,15-29
+vasculitis,75+,60-74
+concussion,5-14,15-29
+oral leukoplakia,60-74,45-59
+chronic kidney disease,75+,60-74
+bladder disorder,75+,60-74
+chorioretinitis,60-74
+priapism,15-29
+myositis,75+,5-14
+mononucleosis,5-14,15-29
+neuralgia,45-59
+polycystic kidney disease,75+,60-74
+bipolar disorder,30-44,45-59
+amyloidosis,75+,60-74
+chronic inflammatory demyelinating polyneuropathy (cidp),60-74,45-59
+gastroesophageal reflux disease (gerd),< 1
+vitreous hemorrhage,75+,60-74,45-59
+poisoning due to antimicrobial drugs,1-4,15-29,< 1
+open wound of the mouth,5-14,1-4
+scleroderma,75+,60-74
+myasthenia gravis,75+,60-74
+hypoglycemia,75+,60-74
+idiopathic absence of menstruation,15-29
+dislocation of the ankle,5-14
+carbon monoxide poisoning,5-14,1-4
+panic attack,15-29
+plantar fasciitis,30-44,45-59
+hyperopia,5-14,1-4,< 1
+poisoning due to sedatives,30-44,45-59
+pemphigus,75+,60-74
+peyronie disease,60-74,45-59
+hiatal hernia,75+,60-74
+extrapyramidal effect of drugs,75+
+meniere disease,60-74,45-59
+anal fissure,< 1
+allergy,5-14,1-4
+chronic otitis media,5-14,1-4,< 1
+fracture of the finger,5-14
+hirschsprung disease,5-14,1-4,< 1
+polymyalgia rheumatica,75+,60-74
+lymphedema,60-74,45-59
+bladder cancer,75+,60-74
+acute bronchospasm,5-14,1-4,< 1
+acute glaucoma,75+,60-74
+open wound of the chest,15-29
+dislocation of the patella,5-14,15-29
+sciatica,45-59
+hypercalcemia,75+,60-74
+stress incontinence,60-74,45-59
+varicose veins,75+,60-74
+benign kidney cyst,75+,60-74
+hydrocele of the testicle,1-4,< 1
+degenerative disc disease,60-74,45-59
+hirsutism,15-29
+dislocation of the foot,30-44,75+
+hydronephrosis,< 1
+diverticulosis,75+,60-74,45-59
+pain after an operation,30-44
+huntington disease,60-74,45-59
+west nile virus,30-44,75+,60-74,5-14,1-4,15-29,45-59,< 1
+lymphoma,75+,60-74
+dermatitis due to sun exposure,75+,60-74
+anemia due to chronic kidney disease,75+,60-74
+injury to internal organ,15-29
+scleritis,60-74
+pterygium,60-74,45-59
+fungal infection of the skin,5-14,1-4
+insulin overdose,30-44,60-74,1-4
+syndrome of inappropriate secretion of adh (siadh),75+,60-74
+foreign body in the ear,5-14,1-4
+premenstrual tension syndrome,30-44
+orbital cellulitis,1-4,< 1
+injury to the leg,5-14
+hepatic encephalopathy,75+,60-74,45-59
+bone cancer,5-14
+leishmaniasis,30-44,75+,60-74,5-14,1-4,15-29,45-59,< 1
+chagas disease,15-29
+syringomyelia,5-14,45-59
+pulmonary fibrosis,75+,60-74
+mitral valve disease,75+,60-74
+parkinson disease,75+,60-74
+gout,75+,60-74,45-59
+otitis media,5-14,1-4,< 1
+drug abuse (opioids),30-44,15-29
+myelodysplastic syndrome,75+,60-74
+fracture of the shoulder,5-14
+acute kidney injury,75+,60-74
+threatened pregnancy,30-44,15-29
+intracranial abscess,60-74,45-59
+gum disease,15-29
+open wound from surgical incision,60-74
+gastrointestinal hemorrhage,75+,60-74
+seborrheic dermatitis,< 1
+drug abuse (methamphetamine),30-44
+torticollis,< 1
+poisoning due to antihypertensives,75+,1-4
+tension headache,30-44
+alcohol intoxication,30-44,45-59
+scurvy,30-44,15-29
+narcolepsy,NUL
+food allergy,5-14,1-4,< 1
+labyrinthitis,75+,60-74
+anxiety,NUL
+impulse control disorder,5-14,15-29
+stenosis of the tear duct,1-4,< 1
+abscess of nose,1-4,< 1
+omphalitis,< 1
+leukemia,75+,60-74,5-14
+bell palsy,NUL
+conjunctivitis due to allergy,5-14
+drug reaction,NUL
+adrenal cancer,5-14,1-4,< 1
+myopia,5-14
+osteoarthritis,75+,60-74,45-59
+thyroid disease,60-74
+pharyngitis,5-14,1-4,< 1
+chronic rheumatic fever,75+,60-74
+hypocalcemia,30-44,60-74,< 1
+macular degeneration,75+,60-74
+pneumonia,75+,1-4,< 1
+cold sore,15-29
+premature ventricular contractions (pvcs),75+,60-74
+chancroid,45-59
+testicular cancer,30-44,15-29
+hydrocephalus,5-14,1-4,< 1
+breast cancer,75+,60-74,45-59
+anemia due to malignancy,75+,60-74
+esophageal varices,60-74,45-59
+endometrial cancer,60-74,45-59
+cystic fibrosis,5-14,1-4,15-29
+intertrigo (skin condition),NUL
+parathyroid adenoma,75+,60-74,45-59
+glucocorticoid deficiency,75+,45-59
+temporomandibular joint disorder,30-44
+wilson disease,75+,60-74
+vesicoureteral reflux,5-14,1-4,< 1
+vitamin a deficiency,30-44,60-74,5-14
+gonorrhea,30-44,15-29
+fracture of the rib,75+,45-59
+ependymoma,60-74,45-59
+hepatitis due to a toxin,45-59
+vaginal cyst,30-44,15-29
+open wound of the shoulder,15-29
+ectopic pregnancy,30-44,15-29
+chronic knee pain,NUL
+pinguecula,60-74
+hypergammaglobulinemia,75+,60-74
+alcohol abuse,30-44,45-59
+carpal tunnel syndrome,45-59
+pituitary disorder,5-14
+kidney stone,30-44
+autism,5-14,1-4
+cat scratch disease,5-14,1-4,< 1
+chronic glaucoma,75+,60-74
+retinal detachment,60-74,45-59
+aplastic anemia,75+,60-74,5-14
+overflow incontinence,75+,60-74
+rabies,30-44,75+,60-74,5-14,1-4,15-29,45-59,< 1
+hemolytic anemia,75+,60-74
+lateral epicondylitis (tennis elbow),30-44,45-59
+open wound of the eye,5-14,1-4
+syphilis,30-44
+diabetic kidney disease,75+,60-74
+nose disorder,1-4,< 1
+drug withdrawal,30-44,45-59
+dental caries,30-44,15-29
+hypercholesterolemia,75+,60-74,45-59
+fracture of the patella,NUL
+kidney failure,75+,60-74
+fracture of the neck,75+
+muscle spasm,NUL
+hemophilia,5-14,1-4
+hyperosmotic hyperketotic state,30-44,45-59
+peritonsillar abscess,15-29
+gastroparesis,30-44
+itching of unknown cause,NUL
+fat embolism,30-44,75+,60-74,5-14,1-4,15-29,45-59,< 1
+polycythemia vera,75+,60-74,45-59
+thrombocytopenia,75+,60-74
+head and neck cancer,60-74,45-59
+pseudohypoparathyroidism,75+,60-74
+goiter,NUL
+urge incontinence,75+,60-74
+edward syndrome,5-14,1-4,< 1
+open wound of the arm,15-29
+muscular dystrophy,5-14
+mittelschmerz,5-14,15-29
+corneal abrasion,NUL
+anemia of chronic disease,75+,60-74
+dysthymic disorder,45-59
+scarlet fever,5-14,1-4
+hypertensive heart disease,75+,60-74
+drug abuse (barbiturates),30-44,45-59
+polycystic ovarian syndrome (pcos),30-44,15-29
+encephalitis,5-14,45-59
+cyst of the eyelid,60-74,45-59
+balanitis,1-4,< 1
+foreign body in the throat,75+,1-4,< 1
+drug abuse (cocaine),30-44,45-59
+optic neuritis,30-44
+alcohol withdrawal,30-44,45-59
+premature atrial contractions (pacs),75+,60-74
+hemiplegia,5-14
+hammer toe,75+,60-74
+open wound of the cheek,5-14,1-4,15-29
+joint effusion,NUL
+open wound of the knee,75+
+meningioma,75+,60-74,45-59
+brain cancer,5-14
+placental abruption,15-29
+seasonal allergies (hay fever),5-14,1-4
+lung cancer,75+,60-74
+primary kidney disease,NUL
+uterine cancer,60-74,45-59
+dry eye of unknown cause,75+,60-74
+fibrocystic breast disease,30-44
+fungal infection of the hair,15-29
+tooth abscess,30-44,15-29
+leptospirosis,30-44,75+,60-74,5-14,1-4,15-29,45-59,< 1
+envenomation from spider or animal bite,5-14
+vacterl syndrome,5-14,1-4,< 1
+vertebrobasilar insufficiency,75+,60-74
+rectal disorder,NUL
+atonic bladder,75+,60-74
+benign paroxysmal positional vertical (bppv),75+,60-74
+blepharospasm,75+,60-74,45-59
+sarcoidosis,30-44,45-59
+metastatic cancer,75+,60-74,45-59
+trigger finger (finger disorder),60-74,45-59
+stye,5-14,1-4,15-29
+hemochromatosis,60-74,45-59
+osteochondroma,60-74
+cushing syndrome,30-44
+typhoid fever,5-14
+vitreous degeneration,75+,60-74
+atrophic skin condition,60-74,45-59
+aspergillosis,75+,60-74,5-14
+uterine atony,30-44,15-29
+trichinosis,15-29
+whooping cough,5-14,1-4,< 1
+pick disease,30-44,75+,60-74,5-14,1-4,15-29,45-59,< 1
+open wound of the lip,5-14,1-4
+subacute thyroiditis,30-44,15-29
+oral mucosal lesion,1-4
+open wound due to trauma,NUL
+intracerebral hemorrhage,75+,60-74,< 1
+alzheimer disease,75+
+vaginismus,30-44,15-29
+systemic lupus erythematosis (sle),30-44
+premature ovarian failure,30-44,15-29
+thoracic outlet syndrome,45-59
+ganglion cyst,NUL
+dislocation of the knee,15-29
+crohn disease,30-44
+postoperative infection,45-59
+folate deficiency,75+
+fluid overload,60-74,45-59
+atrial flutter,75+,60-74
+skin disorder,75+,60-74
+floaters,75+,60-74
+tooth disorder,30-44,15-29
+heart attack,75+,60-74
+open wound of the abdomen,NUL
+fracture of the leg,75+
+oral thrush (yeast infection),< 1
+pityriasis rosea,5-14,1-4,15-29
+allergy to animals,30-44,5-14
+orthostatic hypotension,75+
+obstructive sleep apnea (osa),60-74,45-59
+hypokalemia,75+,60-74
+psoriasis,60-74,45-59
+dislocation of the shoulder,15-29
+intussusception,1-4,< 1
+cervicitis,30-44,15-29
+abscess of the pharynx,5-14,1-4
+primary thrombocythemia,75+
+arthritis of the hip,75+,45-59
+decubitus ulcer,75+,60-74
+hypernatremia,75+,60-74,< 1
+sensorineural hearing loss,75+,60-74
+chronic ulcer,75+,60-74
+osteoporosis,75+,60-74
+ileus,75+,60-74
+sickle cell crisis,30-44,15-29
+urethritis,30-44,15-29
+prostatitis,60-74,45-59
+otitis externa (swimmer's ear),5-14
+poisoning due to anticonvulsants,NUL
+testicular torsion,5-14,15-29
+tricuspid valve disease,75+,60-74
+urethral stricture,75+,60-74
+vitamin d deficiency,60-74
+hydatidiform mole,30-44,15-29
+pain disorder affecting the neck,NUL
+tuberculosis,5-14
+pelvic fistula,30-44
+acute bronchiolitis,1-4,< 1
+presbyopia,60-74,45-59
+dementia,75+,60-74
+insect bite,5-14,1-4
+paroxysmal ventricular tachycardia,75+,60-74
+congenital heart defect,5-14,1-4,< 1
+connective tissue disorder,30-44
+foreign body in the eye,30-44,15-29
+poisoning due to gas,1-4
+pyogenic skin infection,NUL
+endometrial hyperplasia,45-59
+acanthosis nigricans,5-14,15-29
+central atherosclerosis,75+,60-74
+viral exanthem,5-14,1-4,< 1
+blastomycosis,30-44,75+,60-74,5-14,1-4,15-29,45-59,< 1
+noninfectious gastroenteritis,1-4,< 1
+benign prostatic hyperplasia (bph),75+,60-74
+menopause,45-59
+primary immunodeficiency,5-14,1-4
+ovarian cancer,60-74,45-59
+cataract,75+,60-74
+dislocation of the hip,75+,60-74,5-14
+spinal stenosis,60-74,45-59
+intestinal obstruction,75+
+heart contusion,5-14,1-4,< 1
+congenital malformation syndrome,5-14,1-4,< 1
+sporotrichosis,45-59
+lymphangitis,5-14,1-4,< 1
+wernicke korsakoff syndrome,30-44,60-74,45-59
+intestinal disease,60-74
+acute bronchitis,NUL
+persistent vomiting of unknown cause,15-29
+open wound of the foot,5-14
+myocarditis,30-44,75+
+preeclampsia,30-44,15-29
+ischemic heart disease,75+,60-74
+neurofibromatosis,5-14,1-4
+chickenpox,5-14,1-4,< 1
+pancreatic cancer,75+,60-74,45-59
+neuropathy due to drugs,60-74,45-59
+croup,5-14,1-4,< 1
+idiopathic excessive menstruation,30-44
+amblyopia,5-14,1-4
+meckel diverticulum,75+,15-29
+dislocation of the wrist,1-4,15-29
+ear drum damage,5-14,1-4
+erectile dysfunction,60-74,45-59
+temporary or benign blood in urine,75+,60-74
+kidney disease due to longstanding hypertension,75+,60-74
+chondromalacia of the patella,30-44,45-59
+onychomycosis,75+,< 1
+urethral disorder,75+,60-74
+lyme disease,30-44
+iron deficiency anemia,75+,60-74
+acute respiratory distress syndrome (ards),75+,60-74
+toxic multinodular goiter,30-44
+open wound of the finger,15-29
+autonomic nervous system disorder,60-74,45-59
+psychosexual disorder,45-59
+anemia,75+
+tendinitis,45-59
+common cold,5-14,1-4,< 1
+amyotrophic lateral sclerosis (als),75+,60-74
+central retinal artery or vein occlusion,75+,60-74
+paroxysmal supraventricular tachycardia,75+,60-74
+venous insufficiency,75+,60-74
+trichomonas infection,15-29
+acne,5-14,15-29
+depression,45-59
+drug abuse,30-44,15-29
+urinary tract obstruction,75+,60-74
+diabetes insipidus,5-14,1-4,< 1
+iridocyclitis,NUL
+varicocele of the testicles,15-29
+irritable bowel syndrome,NUL
+fracture of the foot,NUL
+ovarian cyst,30-44,15-29
+chlamydia,30-44,15-29
+parasitic disease,NUL
+fracture of the jaw,15-29
+cytomegalovirus infection,30-44,75+,60-74,5-14,1-4,15-29,45-59,< 1
+lipoma,45-59
+female genitalia infection,15-29
+pulmonary hypertension,75+,60-74
+thyroid nodule,60-74,45-59
+broken tooth,1-4,15-29
+dumping syndrome,60-74,45-59
+lymphadenitis,5-14,1-4
+injury to the face,5-14,1-4
+aortic valve disease,75+,60-74
+rheumatoid arthritis,75+,60-74,45-59
+spermatocele,45-59
+impetigo,5-14,1-4,< 1
+anal fistula,30-44,45-59,< 1
+hypothermia,45-59,< 1
+oppositional disorder,5-14
+migraine,30-44
+diabetic peripheral neuropathy,75+,60-74,45-59
+testicular disorder,60-74,45-59
+gestational diabetes,30-44,15-29
+hidradenitis suppurativa,30-44,15-29
+valley fever,30-44,45-59
+conjunctivitis due to bacteria,5-14,1-4,< 1
+lewy body dementia,75+,60-74
+marfan syndrome,5-14,15-29
+multiple myeloma,75+,60-74
+head injury,5-14,1-4
+ascending cholangitis,75+,60-74
+idiopathic irregular menstrual cycle,30-44,15-29
+interstitial lung disease,5-14,1-4,< 1
+mononeuritis,45-59
+malaria,45-59
+somatization disorder,60-74,45-59
+hypovolemia,75+
+schizophrenia,30-44,45-59
+knee ligament or meniscus tear,45-59
+endocarditis,75+,60-74
+sepsis,75+,< 1
+heat stroke,75+,45-59
+cholecystitis,75+
+cardiac arrest,75+,60-74
+cardiomyopathy,75+,60-74
+social phobia,30-44
+meningitis,< 1
+spherocytosis,5-14,1-4,< 1
+hormone disorder,5-14,1-4
+raynaud disease,30-44,60-74
+reactive arthritis,60-74,5-14
+scabies,5-14,1-4
+ear wax impaction,75+
+hypertension of pregnancy,30-44,15-29
+peripheral arterial embolism,75+,60-74
+rosacea,60-74,45-59
+fracture of the skull,15-29,< 1
+uveitis,30-44,45-59
+fracture of the facial bones,15-29
+tracheitis,5-14,1-4
+jaw disorder,15-29
+perirectal infection,30-44
+breast cyst,30-44,45-59
+post-traumatic stress disorder (ptsd),30-44,45-59
+kidney cancer,75+,60-74
+vulvar cancer,75+,60-74,45-59
+blepharitis,75+,60-74
+celiac disease,5-14
+cystitis,NUL
+sickle cell anemia,5-14,1-4,15-29,< 1
+subconjunctival hemorrhage,5-14
+hemorrhoids,45-59
+contact dermatitis,5-14,1-4,< 1
+sinus bradycardia,75+,60-74
+high blood pressure,75+,60-74,45-59
+pelvic inflammatory disease,30-44,15-29
+liver disease,60-74,45-59,< 1
+chronic constipation,5-14,1-4,< 1
+thyroid cancer,60-74,45-59
+flu,5-14,1-4
+friedrich ataxia,75+,5-14,15-29
+tic (movement) disorder,5-14
+skin polyp,NUL
+brachial neuritis,45-59
+cervical cancer,30-44,15-29
+adrenal adenoma,45-59
+esophagitis,NUL
+gas gangrene,1-4
+yeast infection,15-29,< 1
+spina bifida,5-14,1-4,< 1
+drug poisoning due to medication,15-29
+alcoholic liver disease,45-59
+malignant hypertension,75+,60-74,45-59
+diverticulitis,75+,60-74,45-59
+moyamoya disease,5-14,1-4
+heat exhaustion,30-44
+psychotic disorder,5-14
+frostbite,30-44,15-29
+atrophy of the corpus cavernosum,1-4,< 1
+smoking or tobacco addiction,30-44,45-59
+sprain or strain,15-29
+essential tremor,75+,60-74
+open wound of the ear,5-14,1-4
+foreign body in the nose,1-4
+idiopathic painful menstruation,30-44,15-29
+down syndrome,5-14,1-4,< 1
+idiopathic infrequent menstruation,30-44,15-29
+pneumothorax,15-29
+de quervain disease,60-74,45-59
+fracture of the vertebra,75+
+human immunodeficiency virus infection (hiv),30-44,45-59
+mumps,5-14,1-4,15-29
+subarachnoid hemorrhage,60-74,45-59
+acute fatty liver of pregnancy (aflp),30-44,15-29
+ectropion,75+,60-74
+scar,30-44
+lactose intolerance,60-74,5-14,< 1
+eustachian tube dysfunction (ear disorder),5-14,1-4
+appendicitis,5-14,15-29
+graves disease,NUL
+dissociative disorder,45-59
+open wound of the face,5-14,1-4
+dislocation of the vertebra,30-44,45-59
+phimosis,5-14,1-4,< 1
+hyperemesis gravidarum,15-29
+pregnancy,15-29
+thalassemia,5-14,1-4,< 1
+placenta previa,30-44,15-29
+epidural hemorrhage,75+,15-29
+septic arthritis,60-74,45-59
+athlete's foot,30-44
+pleural effusion,75+
+aphakia,75+,60-74
+vulvar disorder,15-29
+vitamin b deficiency,75+,60-74,45-59,< 1
+sialoadenitis,NUL
+gynecomastia,30-44,5-14
+urinary tract infection,75+,15-29
+histoplasmosis,60-74
+erythema multiforme,5-14,1-4,< 1
+scoliosis,5-14
+bunion,60-74,45-59
+arrhythmia,75+,60-74
+paget disease,75+
+trigeminal neuralgia,75+,60-74
+ankylosing spondylitis,60-74,45-59
+peripheral nerve disorder,75+,60-74,45-59
+sebaceous cyst,NUL
+poisoning due to antipsychotics,30-44,15-29
+behcet disease,30-44,60-74
+neurosis,30-44,15-29
+prostate cancer,75+,60-74
+cerebral edema,30-44,5-14
+dislocation of the finger,15-29
+birth trauma,< 1
+chronic pancreatitis,30-44,45-59
+hematoma,60-74,45-59
+carcinoid syndrome,75+,60-74,45-59
+open wound of the head,5-14,1-4
+seborrheic keratosis,75+,60-74
+burn,NUL
+spontaneous abortion,30-44,15-29
+genital herpes,30-44,15-29
+adjustment reaction,5-14
+gallstone,NUL
+multiple sclerosis,30-44,45-59
+zenker diverticulum,75+,60-74,45-59
+fracture of the pelvis,75+
+pneumoconiosis,30-44,1-4
+hyperlipidemia,75+,60-74,45-59
+ulcerative colitis,NUL
+male genitalia infection,30-44,< 1
+hpv,30-44,15-29
+angina,75+,60-74
+injury to the spinal cord,30-44
+nasal polyp,45-59
+lichen simplex,60-74
+trichiasis,75+,60-74
+acariasis,5-14,1-4
+colorectal cancer,75+,60-74
+skin pigmentation disorder,NUL
+factitious disorder,60-74
+lymphogranuloma venereum,15-29,45-59
+galactorrhea of unknown cause,30-44,15-29
+g6pd enzyme deficiency,5-14,1-4,< 1
+nerve impingement near the shoulder,60-74,45-59
+toxoplasmosis,30-44
+fibroadenoma,30-44,45-59
+open wound of the hand,15-29
+missed abortion,30-44,15-29
+diabetic ketoacidosis,15-29
+granuloma inguinale,15-29
+hemorrhagic fever,30-44,75+,60-74,5-14,1-4,15-29,45-59,< 1
+obsessive compulsive disorder (ocd),5-14
+injury of the ankle,NUL
+hyponatremia,75+,60-74
+stricture of the esophagus,75+,60-74
+fracture of the ankle,5-14
+soft tissue sarcoma,75+,60-74
+bone disorder,75+,60-74
+epilepsy,5-14
+personality disorder,30-44,45-59
+shingles (herpes zoster),75+,60-74
+tourette syndrome,5-14,15-29
+avascular necrosis,45-59
+strep throat,5-14,1-4
+spinocerebellar ataxia,75+
+osteomyelitis,75+,60-74,45-59
+sjogren syndrome,75+,60-74
+adhesive capsulitis of the shoulder,60-74,45-59
+viral hepatitis,45-59
+tonsillar hypertrophy,5-14,1-4
+gastritis,NUL
+skin cancer,75+,60-74
+rheumatic fever,60-74,15-29,45-59
+aphthous ulcer,5-14,1-4
+tonsillitis,5-14,1-4
+intestinal cancer,75+,60-74
+rocky mountain spotted fever,15-29
+stomach cancer,75+,60-74
+developmental disability,5-14,1-4
+acute stress reaction,NUL
+delirium,75+
+callus,5-14
+guillain barre syndrome,75+,60-74
+lumbago,30-44,45-59
+deviated nasal septum,30-44
+hemangioma,< 1
+patau syndrome,60-74,15-29
+peripheral arterial disease,75+,60-74
+chronic back pain,30-44,45-59
+heart failure,75+,60-74
+conjunctivitis,5-14,1-4,< 1
+herniated disk,30-44,45-59
+rhabdomyolysis,75+
+breast infection (mastitis),30-44,15-29
+abdominal aortic aneurysm,75+,60-74
+pulmonary embolism,75+,60-74,45-59
+conduct disorder,5-14,1-4
+air embolism,30-44,75+,60-74,5-14,1-4,15-29,45-59,< 1
+mastectomy,75+,60-74,45-59
+epididymitis,30-44
+premature rupture of amniotic membrane,30-44,15-29
+molluscum contagiosum,5-14,1-4
+necrotizing fasciitis,30-44,< 1
+benign vaginal discharge (leukorrhea),30-44,15-29
+bladder obstruction,75+,60-74
+melanoma,75+,60-74,45-59
+cervical disorder,45-59
+laryngitis,NUL
+dyshidrosis,45-59
+poisoning due to opioids,15-29
+diaper rash,1-4,< 1
+lichen planus,45-59
+gastroduodenal ulcer,75+
+inguinal hernia,NUL
+eczema,5-14,1-4,< 1
+asperger syndrome,5-14
+mucositis,1-4,< 1
+paronychia,5-14,1-4
+open wound of the jaw,5-14,1-4
+white blood cell disease,75+
+kaposi sarcoma,30-44,45-59
+spondylolisthesis,60-74
+pseudotumor cerebri,30-44,15-29
+conjunctivitis due to virus,5-14,1-4,< 1
+open wound of the nose,75+,1-4
